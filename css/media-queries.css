@@ -1,0 +1,71 @@
+@media (max-width:767px) {
+    .notice-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 2fr;
+        height: auto;
+    }
+    .notice-information {
+        position: initial;
+    }
+
+    .notice-information a {
+        position: initial;
+    }
+
+    .blogspot-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 2fr;
+    }
+
+    .blogspot-details {
+        margin: initial;
+    }
+
+    .blogspot-details-center {
+        margin: initial;
+    }
+
+    .blogspot-image-center img {
+        width: 100%;
+    }
+
+    .blogspot-image img {
+        width: 135%;
+    }
+
+    .footer-text p {
+        position: initial;
+    }
+
+    /*              blogs */
+
+    .image-container img {
+        object-fit: contain;
+        height: initial;
+    }
+
+    .information-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 2fr;
+        height: auto;
+    }
+
+    .contact-image img {
+        position: initial;
+        margin-top: 10%;
+    }
+
+    .contact-image-heart img {
+        position: initial;
+
+    }
+    .contact-description-heart {
+        width: 220%;
+    }
+
+    .perfil-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 2fr;
+        height: auto;
+    }
+}

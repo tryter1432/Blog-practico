@@ -1,0 +1,25 @@
+.perfil-container {
+    background-color: #CCD1D9;
+    height: 350px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+}
+
+.perfil-information {
+    /* display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center; */
+    max-width: 1020px;
+    margin: 0 auto;
+}
+
+.perfil-image img {
+    width: 70%;
+    position: relative;
+    top: 25%;
+}
+
+.perfil-image {
+    margin-top: 20%;
+}
